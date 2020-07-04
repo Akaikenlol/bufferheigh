@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\bin\Debug\netcoreapp3.1\BufferHeight.exe
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\bin\Debug\netcoreapp3.1\BufferHeight.deps.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\bin\Debug\netcoreapp3.1\BufferHeight.runtimeconfig.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\bin\Debug\netcoreapp3.1\BufferHeight.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\bin\Debug\netcoreapp3.1\BufferHeight.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\bin\Debug\netcoreapp3.1\BufferHeight.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\obj\Debug\netcoreapp3.1\BufferHeight.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\obj\Debug\netcoreapp3.1\BufferHeight.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\obj\Debug\netcoreapp3.1\BufferHeight.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\obj\Debug\netcoreapp3.1\BufferHeight.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\obj\Debug\netcoreapp3.1\BufferHeight.dll
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\obj\Debug\netcoreapp3.1\BufferHeight.pdb
+C:\Users\Administrator\Desktop\C HasH\Month 1\SS\BufferHeight\obj\Debug\netcoreapp3.1\BufferHeight.genruntimeconfig.cache
